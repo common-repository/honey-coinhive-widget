@@ -1,0 +1,3 @@
+#available-widgets [class*=coinhive_widget] .widget-title:before{
+    content: "\f308";
+}

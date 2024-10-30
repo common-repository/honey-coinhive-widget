@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coinhive Widget by Honey\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-24 08:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#: coinhive_widget.php:121 coinhive_widget.php:154
+msgid "/s"
+msgstr ""
+
+#: coinhive_widget.php:174
+msgid "Accepted"
+msgstr ""
+
+#: coinhive_widget.php:50 coinhive_widget.php:81 coinhive_widget.php:229
+msgid "Auto Threads"
+msgstr ""
+
+#: coinhive_widget.php:284
+msgid "Bootstrap Button"
+msgstr ""
+
+#: coinhive_widget.php:368
+msgid "Coinhive Widget"
+msgstr ""
+
+#. Name of the plugin
+msgid "Coinhive Widget by Honey"
+msgstr ""
+
+#: coinhive_widget.php:287
+msgid "Coinhive Widget Settings"
+msgstr ""
+
+#: coinhive_widget.php:379
+msgid "Coinhive.com"
+msgstr ""
+
+#: coinhive_widget.php:376
+msgid "Color"
+msgstr ""
+
+#: coinhive_widget.php:238
+msgid "CPU Usage"
+msgstr ""
+
+#: coinhive_widget.php:121 coinhive_widget.php:154
+msgid "Current"
+msgstr ""
+
+#: coinhive_widget.php:220
+msgid "Description"
+msgstr ""
+
+#: coinhive_widget.php:241
+msgid "Display Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily Add a coinhive miner to your sidebar and widget areas."
+msgstr ""
+
+#: coinhive_widget.php:379
+msgid "Get your Site Key and Secret Key from"
+msgstr ""
+
+#. Author of the plugin
+msgid "Honey Plugins"
+msgstr ""
+
+#: coinhive_widget.php:226
+msgid "Miner Settings"
+msgstr ""
+
+#: coinhive_widget.php:263
+msgid "Mining Speed"
+msgstr ""
+
+#: coinhive_widget.php:287
+msgid "Please fill in your"
+msgstr ""
+
+#: coinhive_widget.php:374
+msgid "Secret Key"
+msgstr ""
+
+#: coinhive_widget.php:371
+msgid "Settings"
+msgstr ""
+
+#: coinhive_widget.php:248
+msgid "Show Current Mining Stats"
+msgstr ""
+
+#: coinhive_widget.php:263 coinhive_widget.php:267 coinhive_widget.php:271
+msgid "Show Graph"
+msgstr ""
+
+#: coinhive_widget.php:252
+msgid "Show Graphs"
+msgstr ""
+
+#: coinhive_widget.php:244
+msgid "Show Miner Settings"
+msgstr ""
+
+#: coinhive_widget.php:280
+msgid "Show Top Users"
+msgstr ""
+
+#: coinhive_widget.php:276
+msgid "Show Website Stats"
+msgstr ""
+
+#: coinhive_widget.php:372
+msgid "Site Key"
+msgstr ""
+
+#: coinhive_widget.php:69 coinhive_widget.php:103
+msgid "Speed"
+msgstr ""
+
+#: coinhive_widget.php:114 coinhive_widget.php:116
+msgid "Start"
+msgstr ""
+
+#: coinhive_widget.php:152
+msgid "Stats"
+msgstr ""
+
+#: coinhive_widget.php:62 coinhive_widget.php:95 coinhive_widget.php:233
+msgid "Threads"
+msgstr ""
+
+#: coinhive_widget.php:214
+msgid "Title"
+msgstr ""
+
+#: coinhive_widget.php:168 coinhive_widget.php:267
+msgid "Top Users"
+msgstr ""
+
+#: coinhive_widget.php:125 coinhive_widget.php:158
+msgid "Total"
+msgstr ""
+
+#: coinhive_widget.php:173
+msgid "User"
+msgstr ""
+
+#: coinhive_widget.php:119
+msgid "User Stats"
+msgstr ""
+
+#: coinhive_widget.php:271
+msgid "Weekly History"
+msgstr ""
